@@ -1,9 +1,9 @@
 ### Introduction
-This project is for bulk placing an order on a website, Bestbuy.ca and XBOX are used as an example. It does the follwoing steps:
-- Open Chrome and navigate to teh website 
-- Clear existing items in shopping cart if any (mostly definitely no because this is a brand new instance of Chrome, but just to be sure)
+This project is for bulk placing an order on a website, Bestbuy and XBOX are used as an example. It does the follwoing steps:
+- Open Chrome and navigate to the website 
+- Clear existing items in shopping cart if any (mostly definitely no because a brand new instance of Chrome is expected, but just to be sure)
 - Search for items in the search bar
-- Locate the item and add to cart
+- Locate one item and add to the cart at a time
 - Place an order once all items are added
 - The program will stop at the payment page to allow user to proceed
 
