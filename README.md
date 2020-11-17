@@ -1,2 +1,2 @@
 # Python
-Python apps for fun
+Python apps 
